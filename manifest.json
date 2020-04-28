@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "Tinder Like Automático",
+    "name": "Tinder Auto Like",
     "description": "Extensão para automatizar o processo de like e match no Tinder",
     "version": "0.2.1",
     "icons": {
