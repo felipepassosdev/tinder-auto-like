@@ -1,4 +1,9 @@
 var interval = setInterval(() => {
+
+    start()
+}, 1500);
+
+const start = () => {
   var modal = document.querySelectorAll(".modal-zoom-in");
   var match = document.querySelectorAll(".itsAMatch");
   console.log("var modal", modal);
@@ -22,4 +27,6 @@ var interval = setInterval(() => {
     console.log("end");
     clearInterval(interval);
   }
-}, 1500);
+}
+
+
